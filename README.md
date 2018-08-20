@@ -1,2 +1,2 @@
 # git-nonsense-experiments
-A repository oly to test some git fiunctionalities
+A repository only to test some git fiunctionalities
